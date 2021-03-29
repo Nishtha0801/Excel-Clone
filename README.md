@@ -16,7 +16,7 @@
 # 🚀 Technical Stack:
 
 ## Frontend:
-- Programming Language: JQuery
+- Programming Language: Javascript
 - Framework: Electrom
 - Templating Engine: Ejs
 - IDE: VScode
